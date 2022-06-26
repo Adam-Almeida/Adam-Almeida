@@ -18,6 +18,7 @@ Formado em Análise e Desenvolvimento de Sistemas, adquiri durante alguns anos e
 Mudar, Recomeçar e Evoluir! 🌱🚀  
 E em alguns anos voltar aqui para atualizar essa breve descrição, em uma nova oportunidade estar trabalhando na área.
 
+
 ## 🐱‍💻 LoveCode
 
 ```javascript
@@ -36,6 +37,7 @@ const adam = {
     }
 };
 ```
+
 
 ## 🛠️ Stack
  
@@ -65,12 +67,26 @@ const adam = {
  ![MACOS](https://img.shields.io/badge/-MacOS-4D4D4D?logo=macos&logoColor=white&logoWidth=40)
  ![WINDOWS](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&logoWidth=40)
 
-## 💻 Projetos Atuais
 
-⏳ API - Compra Afiliada
-▶ <a href="https://github.com/Adam-Almeida/affiliate-purchase">Clique aqui para ver o repositório</a>
+## 💻 Projetos Atuais: Estudo/Comerciais
 
 <img src="https://user-images.githubusercontent.com/62906170/175834972-6a09e681-a04e-4c1c-8264-da747deedf27.png" alt="Logo" width="200"/>
+
+- 🔭   [Clique aqui para ver o repositório](https://github.com/Adam-Almeida/affiliate-purchase)
+- 😄   Tipo: API - Compra Afiliada
+- ⚡   Status: Desenvolvimento das Entidades e Relacionamentos
+
+
+##
+
+<img src="https://user-images.githubusercontent.com/62906170/175835946-c7fe8593-6e85-4b46-9da8-0e0b5265cf86.png" alt="Logo" width="200"/>
+
+- 🔭   [Clique aqui para ver o projeto em produção](http://saffary-sys.herokuapp.com/)
+- 📩   user: demo@saffary.com.br
+- 🔑   senha: demo2022
+- 😄   Tipo: Sistema de Gestão para Comunicação Visual
+- ⚡   Status: MVP em Homologação
+
 
 ## Outros Dados
 ![ViewCount](https://views.whatilearened.today/views/github/adam-almeida/adam-almeida.svg)
