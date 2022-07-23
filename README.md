@@ -16,7 +16,7 @@ Formado em Análise e Desenvolvimento de Sistemas, adquiri durante alguns anos e
 📚 Nesta fase estou estudando Javascript focado em Backend, Padrões de Projeto, Estrutura e Arquitetura de Software.  
   
 Mudar, Recomeçar e Evoluir! 🌱🚀  
-E em alguns anos voltar aqui para atualizar essa breve descrição, em uma nova oportunidade estar trabalhando na área.
+E em alguns anos voltar aqui para atualizar essa breve descrição.
 
 
 ## 🐱‍💻 LoveCode
